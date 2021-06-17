@@ -6,7 +6,6 @@ import android.graphics.Paint.ANTI_ALIAS_FLAG
 import android.os.Build
 import android.util.AttributeSet
 import android.view.View
-import com.ems.a7diets.Application.AppApplication
 import com.ems.a7diets.R
 import java.text.SimpleDateFormat
 import java.util.*
